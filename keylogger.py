@@ -12,9 +12,9 @@ logging.basicConfig(filename=file, level=logging.DEBUG, format="%(asctime)s %(me
 def envoie():
     
     #info à renseigner
-    sender_email = "castelpolo20@gmail.com"
-    password = "pingoin6"
-    receiver_email = "leopoldcastelgay@gmail.com"
+    sender_email = ""
+    password = ""
+    receiver_email = "mail.com"
 
     
     msg = MIMEMultipart()
